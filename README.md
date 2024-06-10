@@ -15,3 +15,8 @@ Voir le notebook : [export_csv_chercheurs-idhal_selon_id_struct.ipynb](demo/expo
 
 Objectif : comparer les signatures des auteurs d'une institution avec les affiliations attribuées automatiquement dans OpenAlex pour repérer des erreurs ou suivre le respect de la charte de signature. Vous pourrez ensuite demander des corrections sur [works-magnet](https://works-magnet.staging.dataesr.ovh).   
 Voir le notebook : [export-signatures-openalex.ipynb](demo/export-signatures-openalex.ipynb)
+
+### Export .csv de la liste des identifiants présents dans les notices IdRef d'une liste de chercheurs
+
+Objectif : comparer les identifiants présents dans IdRef avec des identifiants présents dans un fichier interne à l'institution comme un annuaire de chercheurs pour mettre à jour la base IdRef
+Voir le notebook : [export-identifiants-idref.ipynb](demo/export-identifiants-idref.ipynb)
