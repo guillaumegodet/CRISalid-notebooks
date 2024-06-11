@@ -14,14 +14,14 @@ Voir le notebook : [export_csv_chercheurs-idhal_selon_id_struct.ipynb](demo/expo
 ### Export .csv de la liste des signatures des chercheurs affiliés à une institution dans OpenAlex
 
 Objectif : comparer les signatures des auteurs d'une institution avec les affiliations attribuées automatiquement dans OpenAlex pour repérer des erreurs ou suivre le respect de la charte de signature. Vous pourrez ensuite demander des corrections sur [works-magnet](https://works-magnet.staging.dataesr.ovh).   
-Voir le notebook : [export-signatures-openalex.ipynb](demo/export-signatures-openalex.ipynb)
+Voir le notebook : [export-signatures-openalex.ipynb](notebooks/export-signatures-openalex.ipynb)
 
 ### Ajout d'un champ avec l'id OpenAlex dans un fichier excel issus par exemple du WOS
 
 Objectif : récupérer les liens vers OpenAlex dans un fichier Excel contenant des DOI    
-Voir le notebook : [ajout_idopenalex-exportwos.ipynb](demo/ajout_idopenalex-exportwos.ipynb)
+Voir le notebook : [ajout_idopenalex-exportwos.ipynb](notebooks/ajout_idopenalex-exportwos.ipynb)
 
 ### Export .csv de la liste des identifiants présents dans les notices IdRef d'une liste de chercheurs
 
 Objectif : comparer les identifiants présents dans IdRef avec des identifiants présents dans un fichier interne à l'institution comme un annuaire de chercheurs pour mettre à jour la base IdRef  
-Voir le notebook : [export-identifiants-idref.ipynb](demo/export-identifiants-idref.ipynb)
+Voir le notebook : [export-identifiants-idref.ipynb](notebooks/export-identifiants-idref.ipynb)
