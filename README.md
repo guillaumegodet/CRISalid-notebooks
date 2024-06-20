@@ -25,3 +25,8 @@ Voir le notebook : [ajout_idopenalex-exportwos.ipynb](demo/ajout_idopenalex-expo
 
 Objectif : comparer les identifiants présents dans IdRef avec des identifiants présents dans un fichier interne à l'institution comme un annuaire de chercheurs pour mettre à jour la base IdRef  
 Voir le notebook : [export-identifiants-idref.ipynb](demo/export-identifiants-idref.ipynb)
+
+### Evolution des collaborations dans un groupe d'universités sur plusieurs années
+
+Objectif : visualiser l'évolution du nombre de collaborations entre plusieurs établissements sur une période, (par exemple pour montrer qu'un projet mené en commun a stimulé les collaborations)  
+Voir le notebook : [collab-euniwell.ipynb](demo/collab-euniwell.ipynb)
